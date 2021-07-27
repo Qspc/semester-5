@@ -4,3 +4,6 @@ Mata Kuliah semester 5 :
 - Grafika Komputer (Grafkom)
 - sistem informasi (SI)
 - Sistem Operasi (SO)
+- Temu kembali informasi (TKI) --> elektif, sangat direkomendasikan
+- Manajemen Sumberdaya Keluarga (MSDK) --> SC, tidak direkomendasikan
+
