@@ -1,0 +1,13 @@
+def brake()
+    location += 0
+def accelerate()
+    location += 1
+def reverse
+    location -= 1
+
+if see_people:
+	then brake()
+elif see_blind:
+	then reverse()
+else:
+	Accelerate()

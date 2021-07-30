@@ -1,0 +1,14 @@
+BAB 8
+INFERENCE
+
+First Order Logic (FOL) :
+Term dan Sentence
+
+Inference, terdiri dari 2 :
+soundness =  setiap alpha yg diturunkan dari KB selalu benar. aplha harus merupakan intelment daru KB
+completeness = setiap aplha yg merupakan intelment dari KB itu bisa dikenakan suatu
+
+- inference : forward chainin (data driven, bagus untuk object recognition)
+mulai dari premis yg benar di knowledge base terus sampai query
+- inference : backward chanining (goal driven, bagus untuk problem solving)
+cek dlu apakah query sudah benar atau kita buktikan semua BC yg terkait dengan Q dengan cara avoid loop/repeated work
