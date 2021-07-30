@@ -1,0 +1,9 @@
+BAB 1 :
+how manage your bussenise
+
+new in management information system :
+1. technology : cloud, big data, IOT, mobile digital platform
+2. management : online collab (google sheet), virtual meet (zoom), bussenise intelegent (chart)
+3. organitation : social, telework
+
+#fully digital farm (customers, supplier, employees
