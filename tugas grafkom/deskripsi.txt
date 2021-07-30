@@ -1,0 +1,18 @@
+Nama	: Shibgotalloh sabilana
+NIM	: G64180002
+
+deskripsi tugas nama mata kuliah Grafika Komputer :
+1. memakai 5 jenis objek 2D :
+- GL_POLYGON => pada objek nama
+- GL_QUADS => pada objek balok
+- GL_QUAD STRIP => pada objek bingkai
+- GL_TRIANGLES => pada segitiga
+- GL_LINE_LOOP => pada objek kincir
+
+2. berbagai jenis transformasi :
+- dilatasi, yaitu terdapat pada balok atas yang bergerak dari kiri ke kanan dan balok bawah yang bergerak dari kanan ke kiri
+- rotasi yaitu terdapat pada objek kincir dan segitiga
+
+3. interaksi :
+- terdapat tombol rahasia (clue : bawah huruf S) yang mana jika kursir tepat mengenainya maka tombol akan berubah warna menjadi pink
+- jika tombol ditekan maka gerakan balok atas dan bawah akan ter-reset ke awal

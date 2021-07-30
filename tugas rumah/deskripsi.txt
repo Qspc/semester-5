@@ -1,0 +1,22 @@
+Nama	: Shibgotalloh sabilana
+NIM	: G64180002
+
+Deskripsi tugas rumah mata kuliah Grafika Komputer :
+- Objek yang dibuat menggunakan 2D namun menampakan permukaan seperti 3D
+- berbagai bentuk objek yang dibuat :
+	rumah
+	pintu
+	jendela
+	pohon
+	batu
+	kolam renang
+	awan
+	matahari
+
+1. transformasi yang digunakan :
+awan yang bergerak dari kiri ke kanan secara
+
+2. interaksi yang digunakan :
+- jika melakukan klik kiri pada mouse maka akan berganti menjadi malam (latar + awan menjadi gelap dan matahari berubah menjadi bulan) dan jika klik kanan maka akan kembali siang
+- jika menekan tombol z pada keyboard maka lampu rumah akan menyala dan jika menekan tombol x maka lampu akan mati
+- tombol kursor pada keyboard dapat menggerakan batu yang paling bawah

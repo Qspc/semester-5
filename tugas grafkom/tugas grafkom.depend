@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600645134 source:c:\users\shibgotalloh s\downloads\koding\tugas grafkom\main.c
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+

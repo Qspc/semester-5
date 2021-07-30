@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601568268 source:c:\users\shibgotalloh s\downloads\koding\tugas kincir\tugaskincir\main.cpp
+	<GLFW/glfw3.h>
+	<iostream>
+	<list>
+	<iterator>
+
